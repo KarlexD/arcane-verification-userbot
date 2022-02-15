@@ -10,3 +10,4 @@ requests
 tgcrypto
 pymongo
 dnspython
+app
