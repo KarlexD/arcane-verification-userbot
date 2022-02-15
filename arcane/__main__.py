@@ -4,7 +4,7 @@ ldb.create_db()
 
 from . import bot
 import logging
-import logging
+
 
 logging.basicConfig(
     filename="logs.txt",
@@ -17,7 +17,7 @@ logging.basicConfig(
 
 
 def main():
-    bot.start()
+    bot.run()
     # app.run()
 
 
