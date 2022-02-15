@@ -1,6 +1,6 @@
 from . import bot
 import logging
-from python-idb import ldb
+from  import ldb
 import logging
 
 logging.basicConfig(
