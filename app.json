@@ -1,0 +1,33 @@
+
+{
+	"name": "Arcane verfication userbot",
+	"description": "A TeleGramBot for arcane",
+	"keywords": [
+		"telegram",
+		"Userbot",
+		"python",
+		"Pyrogram"
+	],
+	"repository": "https://github.com/Reeshuxd/WhisperBot",
+	"env": {
+		"TOKEN ": {
+			"description": "Your TeleGram Bot Token ( @BotFather )",
+			"value": ""
+		},
+               {
+                "Token": {
+                       "description": "your telegram bo",
+                       "value": ""
+                },
+                {
+                  "Token": {
+                         "description": "hggjgvj
+                         "value": ""
+                  },
+	},
+	"buildpacks": [
+		{
+			"url": "heroku/python"
+		}
+	]
+}
