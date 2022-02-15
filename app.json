@@ -10,8 +10,8 @@
 	],
 	"repository": "https://github.com/Reeshuxd/WhisperBot",
 	"env": {
-		"TOKEN ": {
-			"description": "Your TeleGram Bot Token ( @BotFather )",
+		"SESSION ": {
+			"description": "Your TeleGram Account SESSION",
 			"value": ""
 		},
                {
@@ -21,7 +21,7 @@
                 },
                 {
                   "Token": {
-                         "description": "hggjgvj
+                         "description": "hggjgvj"
                          "value": ""
                   },
 	},
