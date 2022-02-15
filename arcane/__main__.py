@@ -1,8 +1,6 @@
-"""
-ldb.create_db()
-"""
 
 from . import bot
+from app import ldb
 import logging
 
 
@@ -18,6 +16,7 @@ logging.basicConfig(
 
 def main():
     bot.run()
+    ldb.create_db()
     # app.run()
 
 
