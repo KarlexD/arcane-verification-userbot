@@ -1,4 +1,3 @@
-
 {
 	"name": "Arcane verfication userbot",
 	"description": "A TeleGramBot for arcane",
@@ -8,21 +7,21 @@
 		"python",
 		"Pyrogram"
 	],
-	"repository": "https://github.com/Reeshuxd/WhisperBot",
+	"repository": "https://github.com/sadhanhori/arcane-verification-userbot",
 	"env": {
 		"SESSION ": {
 			"description": "Your TeleGram Account SESSION",
 			"value": ""
 		},
                {
-                "Token": {
-                       "description": "your telegram bo",
-                       "value": ""
+                "API_ID": {
+                       "description": "your telegram Account app id",
+                       "value": "1998138"
                 },
                 {
-                  "Token": {
-                         "description": "hggjgvj"
-                         "value": ""
+                  "API_HASH": {
+                         "description": "your telegram Account app hash"
+                         "value": "13862d4eadf08465eef9f56470d1ba10"
                   },
 	},
 	"buildpacks": [
