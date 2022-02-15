@@ -11,3 +11,4 @@ tgcrypto
 pymongo
 dnspython
 app
+python-idb
