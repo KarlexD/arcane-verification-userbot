@@ -16,12 +16,12 @@
                {
                 "API_ID": {
                        "description": "your telegram Account app id",
-                       "value": "1998138"
+                       "value": ""
                 },
                 {
                   "API_HASH": {
                          "description": "your telegram Account app hash"
-                         "value": "13862d4eadf08465eef9f56470d1ba10"
+                         "value": ""
                   },
 	},
 	"buildpacks": [
