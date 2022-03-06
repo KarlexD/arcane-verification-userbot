@@ -8,5 +8,5 @@ async def kk(_, m: Message):
     user = m.from_user.id
     if user in ARCANEUSER:
         await m.reply_text(
-            f"**You Are [{m.from_user.first_name}](tg://user?id={user}) Arcane Member**"
+            f"**You Are [{m.from_user.first_name}](tg://user?id={user}) Union Member**"
         )
