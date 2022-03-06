@@ -7,7 +7,7 @@
 		"python",
 		"Pyrogram"
 	],
-	"repository": "https://github.com/sadhanhori/arcane-verification-userbot",
+	"repository": "https://github.com/Lucifer6989/arcane-verification-userbot",
 	"env": {
 		"SESSION ": {
 			"description": "Your TeleGram Account SESSION",
