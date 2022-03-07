@@ -1,6 +1,6 @@
 
 from . import bot
-from app import ldb
+from app import idb
 import logging
 
 
